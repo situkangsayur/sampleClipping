@@ -1,0 +1,1 @@
+clipping.d: ../clipping.cpp
